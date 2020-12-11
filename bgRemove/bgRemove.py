@@ -123,9 +123,3 @@ def grabcut():
      cv2.destroyAllWindows()
 
 grabcut()
-
-     
-          
-
-     
-               
