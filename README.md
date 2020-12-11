@@ -49,6 +49,7 @@ KNN 알고리즘을 활용한 face detection & recognition
     <img width="315" alt="6" src="https://user-images.githubusercontent.com/55148494/101899050-7ff6c280-3bf0-11eb-8ec2-d5b02612e6cb.JPG">
   
 <전체 주요 프로토타입>
+   
    <img width="315" alt="KakaoTalk_20201211_204414886" src="https://user-images.githubusercontent.com/55148494/101900617-1e842300-3bf3-11eb-9f56-1d4cc57f7e9c.png">
 
 ## 사용 기술 소개
@@ -82,7 +83,7 @@ KNN 알고리즘을 활용한 face detection & recognition
      가정하여 사람들의 답변을 메트릭스로 수치화한다. 메트릭스에 수치화한 값을 토대로 추후 사용자의 옷과
      어울리도록 다른 아이템들을 추천해준다. 이러한 방법은 아래의 논문에서도 상세히 기술, 구현되어 있기 
      때문에 LookUP에서도 구현 가능할 것으로 보인다.
-   - Attribute Value Matrix (AVM) 을 이용하여 사용자의 선호도 정보를 저장한 후  추후 추천알고리즘에 
+   - Attribute Value Matrix (AVM) 을 이용하여 사용자의 선호도 정보를 저장한 후 추후 추천알고리즘에 
      활용한다.
    
 5. 어플리케이션 개발
