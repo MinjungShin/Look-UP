@@ -25,35 +25,36 @@ KNN 알고리즘을 활용한 face detection & recognition
 ## Look UP 대표 기능 3가지
 1. 간편한 옷장 추가 기능
 
-  1-1. 앨범 통한 자동 추가
+    1-1. 앨범 통한 자동 추가
   
-  <img width="315" alt="1" src="https://user-images.githubusercontent.com/55148494/101899037-7d946880-3bf0-11eb-9a21-5bf62b4e8110.JPG">
+     <img width="315" alt="1" src="https://user-images.githubusercontent.com/55148494/101899037-7d946880-3bf0-11eb-9a21-5bf62b4e8110.JPG">
   
-  1-2. 실시간 카메라 통한 추가
+    1-2. 실시간 카메라 통한 추가
   
-  <img width="315" alt="2" src="https://user-images.githubusercontent.com/55148494/101899045-7ec59580-3bf0-11eb-97fc-50a3385700e4.JPG">
+     <img width="315" alt="2" src="https://user-images.githubusercontent.com/55148494/101899045-7ec59580-3bf0-11eb-97fc-50a3385700e4.JPG">
   
-  1-3. URL 통한 추가(인터넷 쇼핑)
+    1-3. URL 통한 추가(인터넷 쇼핑)
   
-   <img width="315" alt="3" src="https://user-images.githubusercontent.com/55148494/101899046-7f5e2c00-3bf0-11eb-8cfa-f4d8158d2b8d.JPG">
+     <img width="315" alt="3" src="https://user-images.githubusercontent.com/55148494/101899046-7f5e2c00-3bf0-11eb-8cfa-f4d8158d2b8d.JPG">
   
   
   <img width="315" alt="4" src="https://user-images.githubusercontent.com/55148494/101899047-7f5e2c00-3bf0-11eb-90cd-3d88c0ac13f4.JPG">
   
 2. 맞춤형 옷 정리법 제공
   
-  <img width="315" alt="5" src="https://user-images.githubusercontent.com/55148494/101899048-7ff6c280-3bf0-11eb-8b2d-984de886bd83.JPG">
+    <img width="315" alt="5" src="https://user-images.githubusercontent.com/55148494/101899048-7ff6c280-3bf0-11eb-8b2d-984de886bd83.JPG">
 
 3. 룩북
   
-  <img width="315" alt="6" src="https://user-images.githubusercontent.com/55148494/101899050-7ff6c280-3bf0-11eb-8ec2-d5b02612e6cb.JPG">
+    <img width="315" alt="6" src="https://user-images.githubusercontent.com/55148494/101899050-7ff6c280-3bf0-11eb-8ec2-d5b02612e6cb.JPG">
   
 <전체 주요 프로토타입>
   
-  <img width="315" alt="KakaoTalk_20201211_204414886" src="https://user-images.githubusercontent.com/55148494/101900617-1e842300-3bf3-11eb-9f56-1d4cc57f7e9c.png">
+    <img width="315" alt="KakaoTalk_20201211_204414886" src="https://user-images.githubusercontent.com/55148494/101900617-1e842300-3bf3-11eb-9f56-1d4cc57f7e9c.png">
 
 ## 사용 기술 소개
 1. 이미지 객체 인식(얼굴 인식, 옷 인식)
+
   1-1. 얼굴 인식
     - 사진첩에서 사용자의 사진을 분류하기 위해서는 객체 인식 알고리즘이 활용되어야 한다. 이때, 다른 
       물체들과 얼굴을 분류하여 얼굴 영역을 검출하는 face detection, 여러 사람들 간의 얼굴을 식별하고 
