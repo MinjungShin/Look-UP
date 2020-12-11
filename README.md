@@ -25,7 +25,19 @@ KNN 알고리즘을 활용한 face detection & recognition
 ## Look UP 대표 기능 3가지
 1. 간편한 옷장 추가 기능
   1) 앨범 통한 자동 추가
+  ![1](https://user-images.githubusercontent.com/55148494/101899037-7d946880-3bf0-11eb-9a21-5bf62b4e8110.JPG)
+  2) 실시간 카메라 통한 추가
+  ![2](https://user-images.githubusercontent.com/55148494/101899045-7ec59580-3bf0-11eb-97fc-50a3385700e4.JPG)
+  3) URL 통한 추가(인터넷 쇼핑)
+  ![3](https://user-images.githubusercontent.com/55148494/101899046-7f5e2c00-3bf0-11eb-8cfa-f4d8158d2b8d.JPG)
+![4](https://user-images.githubusercontent.com/55148494/101899047-7f5e2c00-3bf0-11eb-90cd-3d88c0ac13f4.JPG)
+2. 맞춤형 옷 정리법 제공
+![5](https://user-images.githubusercontent.com/55148494/101899048-7ff6c280-3bf0-11eb-8b2d-984de886bd83.JPG)
+3. 룩북
+![6](https://user-images.githubusercontent.com/55148494/101899050-7ff6c280-3bf0-11eb-8ec2-d5b02612e6cb.JPG)
   
+전체 프로토타입
+
 
 ## 기술 블로그
 김연재 https://yj-tech.tistory.com/
