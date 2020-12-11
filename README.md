@@ -107,3 +107,20 @@ KNN 알고리즘을 활용한 face detection & recognition
 이소림 https://sr-algo.tistory.com/
 
    =>얼굴인식 알고리즘 스터디 및 KNN 알고리즘을 활용한 얼굴 인식과 판별, Tensorflow lite를 활용한 face detection
+   
+## Reference
+
+- 실시간 얼굴인식(안드로이드 스튜디오)
+
+https://medium.com/@estebanuri/real-time-face-recognition-with-android-tensorflow-lite-14e9c6cc53a5
+
+- Face Detection(안드로이드 스튜디오)
+
+https://www.youtube.com/watch?v=iSf1gD5LgjI
+
+- KNN 알고리즘을 활용한 face detection & recognition
+
+https://thecodingnote.tistory.com/8
+
+- 배경제거 및 윤곽선 추출
+
