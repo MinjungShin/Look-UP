@@ -7,7 +7,7 @@ https://www.youtube.com/channel/UCD8cOZayQ3FosrTvUVdCQqg
 
 
 ## 시연영상 링크
-
+https://youtu.be/lK-V4-I21F0
 
 
 ## 프로젝트 소개
