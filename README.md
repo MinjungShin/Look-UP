@@ -38,7 +38,7 @@ KNN 알고리즘을 활용한 face detection & recognition
      <img width="315" alt="3" src="https://user-images.githubusercontent.com/55148494/101899046-7f5e2c00-3bf0-11eb-8cfa-f4d8158d2b8d.JPG">
   
   
-  <img width="315" alt="4" src="https://user-images.githubusercontent.com/55148494/101899047-7f5e2c00-3bf0-11eb-90cd-3d88c0ac13f4.JPG">
+     <img width="315" alt="4" src="https://user-images.githubusercontent.com/55148494/101899047-7f5e2c00-3bf0-11eb-90cd-3d88c0ac13f4.JPG">
   
 2. 맞춤형 옷 정리법 제공
   
@@ -49,13 +49,13 @@ KNN 알고리즘을 활용한 face detection & recognition
     <img width="315" alt="6" src="https://user-images.githubusercontent.com/55148494/101899050-7ff6c280-3bf0-11eb-8ec2-d5b02612e6cb.JPG">
   
 <전체 주요 프로토타입>
-  
-    <img width="315" alt="KakaoTalk_20201211_204414886" src="https://user-images.githubusercontent.com/55148494/101900617-1e842300-3bf3-11eb-9f56-1d4cc57f7e9c.png">
+   <img width="315" alt="KakaoTalk_20201211_204414886" src="https://user-images.githubusercontent.com/55148494/101900617-1e842300-3bf3-11eb-9f56-1d4cc57f7e9c.png">
 
 ## 사용 기술 소개
 1. 이미지 객체 인식(얼굴 인식, 옷 인식)
 
   1-1. 얼굴 인식
+  
     - 사진첩에서 사용자의 사진을 분류하기 위해서는 객체 인식 알고리즘이 활용되어야 한다. 이때, 다른 
       물체들과 얼굴을 분류하여 얼굴 영역을 검출하는 face detection, 여러 사람들 간의 얼굴을 식별하고 
       동일인 여부를 확인하는 face recognition 기술이 필요하다.
