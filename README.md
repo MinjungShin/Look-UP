@@ -40,7 +40,7 @@ KNN 알고리즘을 활용한 face detection & recognition
   
      <img width="315" alt="3" src="https://user-images.githubusercontent.com/55148494/101899046-7f5e2c00-3bf0-11eb-8cfa-f4d8158d2b8d.JPG">
      
-     <img width="315" alt="4" src="https://user-images.githubusercontent.com/55148494/101899047-7f5e2c00-3bf0-11eb-90cd-3d88c0ac13f4.JPG">
+      <img width="315" alt="4" src="https://user-images.githubusercontent.com/55148494/101899047-7f5e2c00-3bf0-11eb-90cd-3d88c0ac13f4.JPG">
   
 2. 맞춤형 옷 정리법 제공
   
