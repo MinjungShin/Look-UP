@@ -1,4 +1,5 @@
-# Look UP-딥러닝을 활용한 스마트 옷장 관리 어플리케이션
+# Look UP
+ ### 딥러닝을 활용한 스마트 옷장 관리 어플리케이션
 
 ## CTRL_S 유튜브 채널
 https://www.youtube.com/channel/UCD8cOZayQ3FosrTvUVdCQqg
