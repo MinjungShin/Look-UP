@@ -61,7 +61,7 @@ def grabcut():
      global ix,iy,img,img2,drawing,value,mask,rectangle
      global rect,rect_or_mask,rect_over
 
-     img=cv2.imread('guess2.PNG')
+     img=cv2.imread('tshirt.PNG')
      #while True:
          #success, img = cap.read()
         # if img is None:
