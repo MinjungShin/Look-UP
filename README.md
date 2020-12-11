@@ -52,7 +52,7 @@ KNN 알고리즘을 활용한 face detection & recognition
   
 <전체 주요 프로토타입>
    
-     <img width="315" alt="KakaoTalk_20201211_204414886" src="https://user-images.githubusercontent.com/55148494/101900617-1e842300-3bf3-11eb-9f56-1d4cc57f7e9c.png">
+   <img width="315" alt="KakaoTalk_20201211_204414886" src="https://user-images.githubusercontent.com/55148494/101900617-1e842300-3bf3-11eb-9f56-1d4cc57f7e9c.png">
 
 ## 사용 기술 소개
 1. 이미지 객체 인식(얼굴 인식, 옷 인식)
