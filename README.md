@@ -40,7 +40,7 @@ KNN 알고리즘을 활용한 face detection & recognition
   
      <img width="315" alt="3" src="https://user-images.githubusercontent.com/55148494/101899046-7f5e2c00-3bf0-11eb-8cfa-f4d8158d2b8d.JPG">
      
-     <img width="315" alt="4" src="https://user-images.githubusercontent.com/55148494/101899047-7f5e2c00-3bf0-11eb-90cd-3d88c0ac13f4.JPG">
+   <img width="315" alt="4" src="https://user-images.githubusercontent.com/55148494/101899047-7f5e2c00-3bf0-11eb-90cd-3d88c0ac13f4.JPG">
   
 2. 맞춤형 옷 정리법 제공
   
@@ -97,12 +97,12 @@ KNN 알고리즘을 활용한 face detection & recognition
 ## 기술 블로그
 김연재 https://yj-tech.tistory.com/
 
-배경 제거 및 윤곽선 추출, KNN 알고리즘을 활용한 얼굴 인식과 판별, 개인화 추천 시스템
+  =>배경 제거 및 윤곽선 추출, KNN 알고리즘을 활용한 얼굴 인식과 판별, 개인화 추천 시스템
 
 신민정 https://mj-lab.tistory.com/
 
-CNN 모델, Tensorflow를 활용한 옷 분류, Tensorflow를 활용한 Object Detection
+  =>CNN 모델, Tensorflow를 활용한 옷 분류, Tensorflow를 활용한 Object Detection
 
 이소림 https://sr-algo.tistory.com/
 
-얼굴인식 알고리즘 스터디 및 KNN 알고리즘을 활용한 얼굴 인식과 판별, Tensorflow lite를 활용한 face detection
+  =>얼굴인식 알고리즘 스터디 및 KNN 알고리즘을 활용한 얼굴 인식과 판별, Tensorflow lite를 활용한 face detection
