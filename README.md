@@ -1,10 +1,13 @@
 # Look UP
  ### 딥러닝을 활용한 스마트 옷장 관리 어플리케이션
+ 
 
 ## CTRL_S 유튜브 채널
 https://www.youtube.com/channel/UCD8cOZayQ3FosrTvUVdCQqg
 
+
 ## 시연영상 링크
+
 
 
 ## 프로젝트 소개
@@ -116,4 +119,4 @@ https://www.youtube.com/channel/UCD8cOZayQ3FosrTvUVdCQqg
 
 - 배경제거 및 윤곽선 추출
 
-http://blog.naver.com/PostView.nhn?blogId=samsjang&logNo=220606250662&categoryNo=66&parentCategoryNo=0&viewDate=&currentPage=3&postListTopCurrentPage=&from=postList&userTopListOpen=true&userTopListCount=10&userTopListManageOpen=false&userTopListCurrentPage=3
+  http://blog.naver.com/PostView.nhn?blogId=samsjang&logNo=220606250662&categoryNo=66&parentCategoryNo=0&viewDate=&currentPage=3&postListTopCurrentPage=&from=postList&userTopListOpen=true&userTopListCount=10&userTopListManageOpen=false&userTopListCurrentPage=3
