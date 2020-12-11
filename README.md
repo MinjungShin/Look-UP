@@ -7,9 +7,13 @@ https://www.youtube.com/channel/UCD8cOZayQ3FosrTvUVdCQqg
 ## 시연영상 링크
 
 ## 프로젝트 레포지토리 정리
-- 얼굴인식
+- 실시간 얼굴인식(안드로이드 스튜디오)
 
-- 윤곽선 추출
+- Face Detection(안드로이드 스튜디오)
+
+- KNN 알고리즘을 활용한 face detection & recognition
+
+- 배경제거 및 윤곽선 추출
 
 ## 프로젝트 소개
 매일 아침마다 핸드폰의 날씨 어플리케이션에서 기온을 살펴보고, 일정과 메모 어플리케이션을 실행해
@@ -120,3 +124,4 @@ https://www.youtube.com/channel/UCD8cOZayQ3FosrTvUVdCQqg
 
 - 배경제거 및 윤곽선 추출
 
+http://blog.naver.com/PostView.nhn?blogId=samsjang&logNo=220606250662&categoryNo=66&parentCategoryNo=0&viewDate=&currentPage=3&postListTopCurrentPage=&from=postList&userTopListOpen=true&userTopListCount=10&userTopListManageOpen=false&userTopListCurrentPage=3
