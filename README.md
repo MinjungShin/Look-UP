@@ -96,15 +96,15 @@ KNN 알고리즘을 활용한 face detection & recognition
      속성이 무엇인지 파악하기 위해 사용한다. 
 
 ## 기술 블로그
-김연재 https://yj-tech.tistory.com/
+- 김연재 https://yj-tech.tistory.com/
 
    =>배경 제거 및 윤곽선 추출, KNN 알고리즘을 활용한 얼굴 인식과 판별, 개인화 추천 시스템
 
-신민정 https://mj-lab.tistory.com/
+- 신민정 https://mj-lab.tistory.com/
 
    =>CNN 모델, Tensorflow를 활용한 옷 분류, Tensorflow를 활용한 Object Detection
 
-이소림 https://sr-algo.tistory.com/
+- 이소림 https://sr-algo.tistory.com/
 
    =>얼굴인식 알고리즘 스터디 및 KNN 알고리즘을 활용한 얼굴 인식과 판별, Tensorflow lite를 활용한 face detection
    
