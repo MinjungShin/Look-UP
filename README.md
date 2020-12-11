@@ -7,13 +7,9 @@ https://www.youtube.com/channel/UCD8cOZayQ3FosrTvUVdCQqg
 ## 시연영상 링크
 
 ## 프로젝트 레포지토리 정리
-- 실시간 얼굴인식(안드로이드 스튜디오)
+- 얼굴인식
 
-- Face Detection(안드로이드 스튜디오)
-
-- KNN 알고리즘을 활용한 face detection & recognition
-
-- 배경제거 및 윤곽선 추출
+- 윤곽선 추출
 
 ## 프로젝트 소개
 매일 아침마다 핸드폰의 날씨 어플리케이션에서 기온을 살펴보고, 일정과 메모 어플리케이션을 실행해
