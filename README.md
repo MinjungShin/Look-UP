@@ -1,15 +1,11 @@
 # Look UP
-## 딥러닝을 활용한 스마트 옷장 관리 어플리케이션
+### 딥러닝을 활용한 스마트 옷장 관리 어플리케이션
 
 ## CTRL_S 유튜브 채널
 https://www.youtube.com/channel/UCD8cOZayQ3FosrTvUVdCQqg
 
 ## 시연영상 링크
 
-## 프로젝트 레포지토리 정리
-- 얼굴인식 https://github.com/MinjungShin/Look-UP/얼굴인식
-
-- 윤곽선추출 https://github.com/MinjungShin/Look-UP/
 
 ## 프로젝트 소개
 매일 아침마다 핸드폰의 날씨 어플리케이션에서 기온을 살펴보고, 일정과 메모 어플리케이션을 실행해
